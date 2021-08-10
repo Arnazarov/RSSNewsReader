@@ -1,4 +1,4 @@
-# RSSNewsReader
+# RSSNewsReader - CS420 Project#11
 Simple app that reads from RSS news feed using JavaFX
 
 
