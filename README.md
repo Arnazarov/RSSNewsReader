@@ -24,5 +24,5 @@ The app written in MVC architecture and has following classes, files and methods
  - View.fxml (User-interface)
  
  Screenshot:
- ![Image of example screenshot] (https://github.com/Arnazarov/RSSNewsReader/blob/master/Screenshot.JPG?raw=true)
+ ![Image of example screenshot] (https://github.com/Arnazarov/RSSNewsReader/blob/master/Screenshot.JPG)
  
